@@ -1,0 +1,7 @@
+{
+  "name": "Universal Accessibility Companion",
+  "description": "🌐 UNIVERSAL ACCESSIBILITY COMPANION\n\nThis app helps people with visual, reading, or cognitive challenges understand digital content.\n\n📸 HOW TO USE:\n\n1. Upload a screenshot, image, PDF, or document (or paste text)\n\n2. Choose a mode:\n   • DESCRIBE — Get a detailed, accessible description of what's on screen\n   • SIMPLIFY — Get the text rewritten in plain, easy-to-understand language  \n   • GUIDE — Get step-by-step instructions to navigate or complete a task\n\n3. Read the result\n\n✨ Built with Gemini 3 Pro in Google AI Studio for accessibility.\nFor best results, use clear, readable images.\n",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
